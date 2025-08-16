@@ -1,0 +1,801 @@
+text,label
+"UNION SELECT usErnaMe, pasSwORD FROM usErs --",1
+order by date desc,0
+order by date desc,0
+' ; DROP TABLE users; #,1
+product search: laptop bag,0
+select * from employees where id = 5,0
+1; WAITFOR DELAY '0:0:5' --,1
+1; WAITFOR DELAY '0:0:5' --,1
+price between 100 and 200,0
+email=jane.doe@example.com&reset=true,0
+normal text without sql,0
+' OR '1'='1,1
+department='economy' and region='apac',0
+department='economy' and region='apac',0
+'/**/OR/**/1=1--,1
+select * from employees where id = 5,0
+"' /**/ UNION /**/ SELECT /**/ null,null /**/ --",1
+""" OR """" = """,1
+update profile set city='Hyderabad' where user_id=10,0
+email=jane.doe@example.com&reset=true,0
+order by date desc,0
+INSERT INTO logs(message) VALUES('user signed in'),0
+1; WAITFOR DELAY '0:0:5' --,1
+order by date desc,0
+price between 100 and 200,0
+admiN' --,1
+""" OR """" = """,1
+department='economy' and region='apac',0
+update profile set city='Hyderabad' where user_id=10,0
+INSERT INTO logs(message) VALUES('user signed in'),0
+1 /**/ AND /**/ SLEEP(5)--,1
+admin'  --,1
+' OR '1'='1,1
+admin' /**/ --,1
+product search: laptop bag,0
+"-1' UNION ALL SELECT 1,2--",1
+email=jane.doe@example.com&reset=true,0
+email=jane.doe@example.com&reset=true,0
+aDmIn' /**/ ;--,1
+hello world,0
+hello world,0
+hello world,0
+"-1' UNION ALL SELECT 1,2;--",1
+hello world,0
+""" OR """" = """,1
+hello world,0
+department='economy' and region='apac',0
+select * from employees where id = 5,0
+' ; DROP TABLE USers; --,1
+INSERT INTO logs(message) VALUES('user signed in'),0
+AdmIN' /**/ ;--,1
+"'  UNION  SELECT  nULl,nUll  --",1
+"UNION /**/ SELECT /**/ useRname, /**/ PasSwoRD /**/ FROM /**/ uSers /**/ --",1
+hello world,0
+"-1' UNION ALL SELECT 1,2--",1
+'/**/OR/**/1=1--,1
+order by date desc,0
+INSERT INTO logs(message) VALUES('user signed in'),0
+"'  UNION  SELECT  null,null  --",1
+' OR 1=1 --,1
+price between 100 and 200,0
+select * from employees where id = 5,0
+hello world,0
+') OR ('1'='1,1
+update profile set city='Hyderabad' where user_id=10,0
+' /**/ OR /**/ '1'='1,1
+"UNION SELECT username, password FROM users --",1
+'  ;  DROP  TABLE  users;  --,1
+INSERT INTO logs(message) VALUES('user signed in'),0
+price between 100 and 200,0
+admin' ;--,1
+INSERT INTO logs(message) VALUES('user signed in'),0
+1; WAITFOR DELAY '0:0:5' --,1
+INSERT INTO logs(message) VALUES('user signed in'),0
+' OR '1'='1,1
+email=jane.doe@example.com&reset=true,0
+1 AND SLEEP(5)--,1
+"' /**/ UNION /**/ SELECT /**/ null,null /**/ --",1
+normal text without sql,0
+price between 100 and 200,0
+ADmin' --,1
+department='economy' and region='apac',0
+') OR ('1'='1,1
+') OR ('1'='1,1
+"-1' UNION ALL SELECT 1,2--",1
+order by date desc,0
+normal text without sql,0
+' OR '1'='1,1
+1; WAITFOR DELAY '0:0:5' ;--,1
+normal text without sql,0
+normal text without sql,0
+price between 100 and 200,0
+update profile set city='Hyderabad' where user_id=10,0
+update profile set city='Hyderabad' where user_id=10,0
+select * from employees where id = 5,0
+email=jane.doe@example.com&reset=true,0
+email=jane.doe@example.com&reset=true,0
+""" OR """" = """,1
+"' UNION SELECT null,null --",1
+update profile set city='Hyderabad' where user_id=10,0
+' /**/ OR /**/ 1=1 /**/ --,1
+select * from employees where id = 5,0
+price between 100 and 200,0
+update profile set city='Hyderabad' where user_id=10,0
+1 AND SLEEP(5)--,1
+' OR '1'='1,1
+"'  UNION  SELECT  null,null  --",1
+order by date desc,0
+hello world,0
+' /**/ ; /**/ DROP /**/ TABLE /**/ uSers; /**/ #,1
+1 AND SLEEP(5)--,1
+price between 100 and 200,0
+email=jane.doe@example.com&reset=true,0
+price between 100 and 200,0
+price between 100 and 200,0
+"' UNION SELECT nUll,NUlL --",1
+price between 100 and 200,0
+product search: laptop bag,0
+"UNION  SELECT  username,  password  FROM  users  #",1
+email=jane.doe@example.com&reset=true,0
+INSERT INTO logs(message) VALUES('user signed in'),0
+normal text without sql,0
+"-1' UNION ALL SELECT 1,2#",1
+"-1' UNION ALL SELECT 1,2--",1
+normal text without sql,0
+"' UNION SELECT null,null --",1
+INSERT INTO logs(message) VALUES('user signed in'),0
+select * from employees where id = 5,0
+1; WAITFOR DELAY '0:0:5' ;--,1
+normal text without sql,0
+' OR '1'='1,1
+department='economy' and region='apac',0
+1; /**/ WAITFOR /**/ DELAY /**/ '0:0:5' /**/ --,1
+department='economy' and region='apac',0
+normal text without sql,0
+hello world,0
+select * from employees where id = 5,0
+hello world,0
+email=jane.doe@example.com&reset=true,0
+1; WAITFOR DELAY '0:0:5' --,1
+INSERT INTO logs(message) VALUES('user signed in'),0
+'/**/OR/**/1=1--,1
+price between 100 and 200,0
+admin' /**/ #,1
+hello world,0
+price between 100 and 200,0
+hello world,0
+') OR ('1'='1,1
+department='economy' and region='apac',0
+department='economy' and region='apac',0
+' /**/ ; /**/ DROP /**/ TABLE /**/ users; /**/ --,1
+'/**/OR/**/1=1--,1
+"'  UNION  SELECT  NulL,Null  --",1
+product search: laptop bag,0
+"' /**/ UNION /**/ SELECT /**/ null,null /**/ ;--",1
+normal text without sql,0
+""" OR """" = """,1
+""" OR """" = """,1
+update profile set city='Hyderabad' where user_id=10,0
+email=jane.doe@example.com&reset=true,0
+email=jane.doe@example.com&reset=true,0
+update profile set city='Hyderabad' where user_id=10,0
+""" OR """" = """,1
+""" OR """" = """,1
+' OR '1'='1,1
+adMin' --,1
+email=jane.doe@example.com&reset=true,0
+'  ;  DROP  TABLE  usErs;  #,1
+product search: laptop bag,0
+price between 100 and 200,0
+' /**/ OR /**/ 1=1 /**/ --,1
+'/**/OR/**/1=1--,1
+INSERT INTO logs(message) VALUES('user signed in'),0
+order by date desc,0
+normal text without sql,0
+"UNION /**/ SELECT /**/ usernamE, /**/ paSSWord /**/ FROM /**/ usErS /**/ ;--",1
+' ; DROP TABLE users; --,1
+') /**/ OR /**/ ('1'='1,1
+select * from employees where id = 5,0
+') OR ('1'='1,1
+update profile set city='Hyderabad' where user_id=10,0
+department='economy' and region='apac',0
+email=jane.doe@example.com&reset=true,0
+product search: laptop bag,0
+' ; DROP TABLE users; ;--,1
+1; /**/ WAITFOR /**/ DELAY /**/ '0:0:5' /**/ --,1
+update profile set city='Hyderabad' where user_id=10,0
+normal text without sql,0
+email=jane.doe@example.com&reset=true,0
+"'  UNION  SELECT  nUll,nulL  --",1
+' OR 1=1 --,1
+normal text without sql,0
+"UNION SELECT userNaMe, pASsworD FROM UseRs --",1
+price between 100 and 200,0
+product search: laptop bag,0
+select * from employees where id = 5,0
+"-1' /**/ UNION /**/ ALL /**/ SELECT /**/ 1,2#",1
+email=jane.doe@example.com&reset=true,0
+1;  WAITFOR  DELAY  '0:0:5'  --,1
+order by date desc,0
+' ; DROP TABLE users; --,1
+' ; DROP TABLE users; ;--,1
+order by date desc,0
+normal text without sql,0
+"UNION /**/ SELECT /**/ usernamE, /**/ paSSWord /**/ FROM /**/ useRs /**/ --",1
+update profile set city='Hyderabad' where user_id=10,0
+"' UNION SELECT null,null --",1
+' OR 1=1 --,1
+INSERT INTO logs(message) VALUES('user signed in'),0
+select * from employees where id = 5,0
+email=jane.doe@example.com&reset=true,0
+email=jane.doe@example.com&reset=true,0
+""" OR """" = """,1
+1 AND SLEEP(5)#,1
+' OR '1'='1,1
+'/**/OR/**/1=1--,1
+1; WAITFOR DELAY '0:0:5' --,1
+1 AND SLEEP(5);--,1
+select * from employees where id = 5,0
+price between 100 and 200,0
+' OR '1'='1,1
+""" OR """" = """,1
+1; WAITFOR DELAY '0:0:5' --,1
+1 AND SLEEP(5)--,1
+select * from employees where id = 5,0
+1; WAITFOR DELAY '0:0:5' ;--,1
+' OR 1=1 --,1
+select * from employees where id = 5,0
+') /**/ OR /**/ ('1'='1,1
+update profile set city='Hyderabad' where user_id=10,0
+'  OR  '1'='1,1
+department='economy' and region='apac',0
+update profile set city='Hyderabad' where user_id=10,0
+order by date desc,0
+' ; DROP TABLE users; --,1
+department='economy' and region='apac',0
+') OR ('1'='1,1
+1 AND SLEEP(5)--,1
+"' UNION SELECT nULL,nuLl --",1
+"-1' UNION ALL SELECT 1,2--",1
+') OR ('1'='1,1
+' ; DROP TABLE users; ;--,1
+""" OR """" = """,1
+price between 100 and 200,0
+department='economy' and region='apac',0
+department='economy' and region='apac',0
+' ; DROP TABLE uSerS; --,1
+admin' --,1
+email=jane.doe@example.com&reset=true,0
+1; WAITFOR DELAY '0:0:5' --,1
+update profile set city='Hyderabad' where user_id=10,0
+INSERT INTO logs(message) VALUES('user signed in'),0
+department='economy' and region='apac',0
+select * from employees where id = 5,0
+normal text without sql,0
+hello world,0
+1 AND SLEEP(5)--,1
+1; WAITFOR DELAY '0:0:5' --,1
+"-1' UNION ALL SELECT 1,2--",1
+' ; DROP TABLE users; --,1
+department='economy' and region='apac',0
+select * from employees where id = 5,0
+hello world,0
+'  ;  DROP  TABLE  users;  --,1
+INSERT INTO logs(message) VALUES('user signed in'),0
+order by date desc,0
+1 AND SLEEP(5)--,1
+department='economy' and region='apac',0
+hello world,0
+'/**/OR/**/1=1--,1
+select * from employees where id = 5,0
+'  ;  DROP  TABLE  users;  --,1
+select * from employees where id = 5,0
+"' UNION SELECT Null,nulL --",1
+email=jane.doe@example.com&reset=true,0
+select * from employees where id = 5,0
+select * from employees where id = 5,0
+price between 100 and 200,0
+"UNION  SELECT  username,  paSSword  FROM  userS  --",1
+')  OR  ('1'='1,1
+aDmin'  --,1
+department='economy' and region='apac',0
+' ; DROP TABLE users; --,1
+' /**/ ; /**/ DROP /**/ TABLE /**/ uSeRs; /**/ ;--,1
+order by date desc,0
+INSERT INTO logs(message) VALUES('user signed in'),0
+'/**/OR/**/1=1--,1
+INSERT INTO logs(message) VALUES('user signed in'),0
+1; WAITFOR DELAY '0:0:5' --,1
+""" OR """" = """,1
+hello world,0
+' ; DROP TABLE users; ;--,1
+update profile set city='Hyderabad' where user_id=10,0
+hello world,0
+INSERT INTO logs(message) VALUES('user signed in'),0
+normal text without sql,0
+product search: laptop bag,0
+select * from employees where id = 5,0
+admin' --,1
+'  OR  '1'='1,1
+update profile set city='Hyderabad' where user_id=10,0
+') OR ('1'='1,1
+product search: laptop bag,0
+department='economy' and region='apac',0
+' ; DROP TABLE useRs; --,1
+email=jane.doe@example.com&reset=true,0
+price between 100 and 200,0
+price between 100 and 200,0
+select * from employees where id = 5,0
+department='economy' and region='apac',0
+normal text without sql,0
+' OR '1'='1,1
+' ; DROP TABLE users; --,1
+price between 100 and 200,0
+normal text without sql,0
+update profile set city='Hyderabad' where user_id=10,0
+INSERT INTO logs(message) VALUES('user signed in'),0
+hello world,0
+1 /**/ AND /**/ SLEEP(5)--,1
+1; WAITFOR DELAY '0:0:5' #,1
+1  AND  SLEEP(5)--,1
+INSERT INTO logs(message) VALUES('user signed in'),0
+price between 100 and 200,0
+1 AND SLEEP(5)--,1
+'/**/OR/**/1=1--,1
+1; WAITFOR DELAY '0:0:5' --,1
+1 AND SLEEP(5)--,1
+order by date desc,0
+update profile set city='Hyderabad' where user_id=10,0
+email=jane.doe@example.com&reset=true,0
+1; /**/ WAITFOR /**/ DELAY /**/ '0:0:5' /**/ --,1
+admIn' --,1
+ADmIn'  ;--,1
+') OR ('1'='1,1
+department='economy' and region='apac',0
+"-1' UNION ALL SELECT 1,2#",1
+INSERT INTO logs(message) VALUES('user signed in'),0
+1; WAITFOR DELAY '0:0:5' --,1
+select * from employees where id = 5,0
+1;  WAITFOR  DELAY  '0:0:5'  --,1
+update profile set city='Hyderabad' where user_id=10,0
+' ; DROP TABLE users; --,1
+normal text without sql,0
+' OR 1=1 --,1
+select * from employees where id = 5,0
+"'  UNION  SELECT  null,null  --",1
+"UNION /**/ SELECT /**/ username, /**/ password /**/ FROM /**/ users /**/ --",1
+'  ;  DROP  TABLE  uSers;  --,1
+'/**/OR/**/1=1--,1
+1  AND  SLEEP(5)--,1
+INSERT INTO logs(message) VALUES('user signed in'),0
+"UNION SELECT username, password FROM users #",1
+'/**/OR/**/1=1--,1
+' OR '1'='1,1
+INSERT INTO logs(message) VALUES('user signed in'),0
+price between 100 and 200,0
+""" OR """" = """,1
+product search: laptop bag,0
+' OR '1'='1,1
+department='economy' and region='apac',0
+update profile set city='Hyderabad' where user_id=10,0
+order by date desc,0
+order by date desc,0
+select * from employees where id = 5,0
+"' UNION SELECT NULl,NUll --",1
+department='economy' and region='apac',0
+"-1' /**/ UNION /**/ ALL /**/ SELECT /**/ 1,2--",1
+email=jane.doe@example.com&reset=true,0
+' OR 1=1 --,1
+'/**/OR/**/1=1--,1
+select * from employees where id = 5,0
+price between 100 and 200,0
+"-1' UNION ALL SELECT 1,2--",1
+select * from employees where id = 5,0
+update profile set city='Hyderabad' where user_id=10,0
+' OR '1'='1,1
+1;  WAITFOR  DELAY  '0:0:5'  --,1
+email=jane.doe@example.com&reset=true,0
+email=jane.doe@example.com&reset=true,0
+order by date desc,0
+1 AND SLEEP(5)--,1
+"UNION /**/ SELECT /**/ username, /**/ password /**/ FROM /**/ users /**/ --",1
+"UNION SELECT UseRnamE, pAssWOrd FROM UseRs ;--",1
+') OR ('1'='1,1
+email=jane.doe@example.com&reset=true,0
+""" OR """" = """,1
+email=jane.doe@example.com&reset=true,0
+normal text without sql,0
+department='economy' and region='apac',0
+select * from employees where id = 5,0
+order by date desc,0
+1 AND SLEEP(5);--,1
+price between 100 and 200,0
+INSERT INTO logs(message) VALUES('user signed in'),0
+"-1'  UNION  ALL  SELECT  1,2--",1
+hello world,0
+"' /**/ UNION /**/ SELECT /**/ null,null /**/ --",1
+""" OR """" = """,1
+select * from employees where id = 5,0
+') OR ('1'='1,1
+' ; DROP TABLE users; ;--,1
+' ; DROP TABLE Users; --,1
+price between 100 and 200,0
+' OR '1'='1,1
+normal text without sql,0
+order by date desc,0
+' OR 1=1 --,1
+normal text without sql,0
+hello world,0
+'  OR  '1'='1,1
+price between 100 and 200,0
+"UNION SELECT uSernAmE, password FROM Users --",1
+' ; DROP TABLE Users; --,1
+hello world,0
+select * from employees where id = 5,0
+normal text without sql,0
+1 AND SLEEP(5)--,1
+INSERT INTO logs(message) VALUES('user signed in'),0
+') OR ('1'='1,1
+'/**/OR/**/1=1#,1
+"UNION  SELECT  uSERname,  PaSswOrD  FROM  Users  --",1
+order by date desc,0
+price between 100 and 200,0
+normal text without sql,0
+product search: laptop bag,0
+' /**/ ; /**/ DROP /**/ TABLE /**/ users; /**/ --,1
+"-1' UNION ALL SELECT 1,2--",1
+' /**/ OR /**/ 1=1 /**/ --,1
+') OR ('1'='1,1
+1 AND SLEEP(5)--,1
+' OR '1'='1,1
+') OR ('1'='1,1
+admIn' --,1
+"'  UNION  SELECT  null,null  --",1
+"-1'  UNION  ALL  SELECT  1,2;--",1
+normal text without sql,0
+' ; DROP TABLE useRS; --,1
+' ; DROP TABLE users; --,1
+' ; DROP TABLE useRs; --,1
+normal text without sql,0
+normal text without sql,0
+"-1' UNION ALL SELECT 1,2--",1
+price between 100 and 200,0
+normal text without sql,0
+order by date desc,0
+normal text without sql,0
+admin' --,1
+product search: laptop bag,0
+product search: laptop bag,0
+' OR 1=1 --,1
+' OR 1=1 ;--,1
+email=jane.doe@example.com&reset=true,0
+1; WAITFOR DELAY '0:0:5' --,1
+product search: laptop bag,0
+"-1' UNION ALL SELECT 1,2--",1
+hello world,0
+"-1' UNION ALL SELECT 1,2--",1
+') OR ('1'='1,1
+department='economy' and region='apac',0
+update profile set city='Hyderabad' where user_id=10,0
+INSERT INTO logs(message) VALUES('user signed in'),0
+' OR '1'='1,1
+INSERT INTO logs(message) VALUES('user signed in'),0
+' OR '1'='1,1
+"-1' UNION ALL SELECT 1,2--",1
+normal text without sql,0
+order by date desc,0
+"' UNION SELECT null,null --",1
+update profile set city='Hyderabad' where user_id=10,0
+'/**/OR/**/1=1--,1
+1 AND SLEEP(5)--,1
+1;  WAITFOR  DELAY  '0:0:5'  --,1
+'/**/OR/**/1=1--,1
+INSERT INTO logs(message) VALUES('user signed in'),0
+'/**/OR/**/1=1#,1
+'/**/OR/**/1=1--,1
+'/**/OR/**/1=1--,1
+1 AND SLEEP(5)--,1
+' ; DROP TABLE uSeRs; --,1
+""" OR """" = """,1
+') OR ('1'='1,1
+"-1' UNION ALL SELECT 1,2#",1
+update profile set city='Hyderabad' where user_id=10,0
+"' UNION SELECT null,null #",1
+hello world,0
+"-1' UNION ALL SELECT 1,2--",1
+'  OR  1=1  ;--,1
+') OR ('1'='1,1
+""" OR """" = """,1
+email=jane.doe@example.com&reset=true,0
+""" OR """" = """,1
+"""  OR  """"  =  """,1
+1; /**/ WAITFOR /**/ DELAY /**/ '0:0:5' /**/ --,1
+' OR 1=1 --,1
+email=jane.doe@example.com&reset=true,0
+email=jane.doe@example.com&reset=true,0
+department='economy' and region='apac',0
+') OR ('1'='1,1
+1 AND SLEEP(5)--,1
+' ; DROP TABLE uSers; #,1
+normal text without sql,0
+"' UNION SELECT null,null --",1
+"' UNION SELECT nUll,null --",1
+' OR 1=1 ;--,1
+department='economy' and region='apac',0
+order by date desc,0
+price between 100 and 200,0
+"-1'  UNION  ALL  SELECT  1,2--",1
+hello world,0
+' OR '1'='1,1
+department='economy' and region='apac',0
+"-1' UNION ALL SELECT 1,2--",1
+' /**/ OR /**/ 1=1 /**/ --,1
+hello world,0
+""" OR """" = """,1
+') /**/ OR /**/ ('1'='1,1
+' ; DROP TABLE users; #,1
+"'  UNION  SELECT  NuLl,NuLL  ;--",1
+"UNION SELECT useRNaMe, passwoRd FROM useRs #",1
+') OR ('1'='1,1
+update profile set city='Hyderabad' where user_id=10,0
+'/**/OR/**/1=1--,1
+' OR 1=1 ;--,1
+"'  UNION  SELECT  nUll,null  ;--",1
+1;  WAITFOR  DELAY  '0:0:5'  --,1
+"' UNION SELECT null,null --",1
+1 /**/ AND /**/ SLEEP(5)--,1
+product search: laptop bag,0
+' /**/ ; /**/ DROP /**/ TABLE /**/ users; /**/ --,1
+"UNION /**/ SELECT /**/ useRnaMe, /**/ password /**/ FROM /**/ usErS /**/ --",1
+""" OR """" = """,1
+"' UNION SELECT null,Null --",1
+hello world,0
+product search: laptop bag,0
+INSERT INTO logs(message) VALUES('user signed in'),0
+"-1' UNION ALL SELECT 1,2--",1
+select * from employees where id = 5,0
+update profile set city='Hyderabad' where user_id=10,0
+"UNION SELECT USERnAme, pasSWoRd FROM users --",1
+' /**/ OR /**/ '1'='1,1
+' OR 1=1 --,1
+1;  WAITFOR  DELAY  '0:0:5'  --,1
+normal text without sql,0
+select * from employees where id = 5,0
+price between 100 and 200,0
+' OR '1'='1,1
+"UNION SELECT UsErnAme, PASSword FROM uSers --",1
+email=jane.doe@example.com&reset=true,0
+department='economy' and region='apac',0
+"""  OR  """"  =  """,1
+'/**/OR/**/1=1;--,1
+update profile set city='Hyderabad' where user_id=10,0
+order by date desc,0
+normal text without sql,0
+1  AND  SLEEP(5)--,1
+"-1' UNION ALL SELECT 1,2;--",1
+"-1'  UNION  ALL  SELECT  1,2--",1
+1; WAITFOR DELAY '0:0:5' --,1
+update profile set city='Hyderabad' where user_id=10,0
+update profile set city='Hyderabad' where user_id=10,0
+"' UNION SELECT nulL,nuLl --",1
+update profile set city='Hyderabad' where user_id=10,0
+product search: laptop bag,0
+') OR ('1'='1,1
+"' UNION SELECT nULL,nulL #",1
+'  ;  DROP  TABLE  users;  --,1
+update profile set city='Hyderabad' where user_id=10,0
+INSERT INTO logs(message) VALUES('user signed in'),0
+order by date desc,0
+"-1' UNION ALL SELECT 1,2--",1
+'/**/OR/**/1=1--,1
+"""  OR  """"  =  """,1
+Admin' --,1
+admin'  --,1
+normal text without sql,0
+department='economy' and region='apac',0
+hello world,0
+update profile set city='Hyderabad' where user_id=10,0
+'  ;  DROP  TABLE  users;  --,1
+update profile set city='Hyderabad' where user_id=10,0
+select * from employees where id = 5,0
+price between 100 and 200,0
+1 AND SLEEP(5);--,1
+INSERT INTO logs(message) VALUES('user signed in'),0
+"-1' UNION ALL SELECT 1,2--",1
+'  ;  DROP  TABLE  uSeRS;  --,1
+department='economy' and region='apac',0
+select * from employees where id = 5,0
+price between 100 and 200,0
+1 AND SLEEP(5)--,1
+' OR '1'='1,1
+normal text without sql,0
+' ; DROP TABLE Users; --,1
+' /**/ OR /**/ 1=1 /**/ --,1
+department='economy' and region='apac',0
+INSERT INTO logs(message) VALUES('user signed in'),0
+admin' /**/ --,1
+"-1' UNION ALL SELECT 1,2--",1
+admin' --,1
+1 AND SLEEP(5)--,1
+"-1' /**/ UNION /**/ ALL /**/ SELECT /**/ 1,2--",1
+hello world,0
+hello world,0
+normal text without sql,0
+""" OR """" = """,1
+""" OR """" = """,1
+'  ;  DROP  TABLE  UserS;  ;--,1
+select * from employees where id = 5,0
+1  AND  SLEEP(5)#,1
+' /**/ OR /**/ '1'='1,1
+order by date desc,0
+'  OR  1=1  --,1
+email=jane.doe@example.com&reset=true,0
+' OR 1=1 --,1
+"' UNION SELECT nUll,null --",1
+update profile set city='Hyderabad' where user_id=10,0
+hello world,0
+email=jane.doe@example.com&reset=true,0
+hello world,0
+"' UNION SELECT null,null ;--",1
+price between 100 and 200,0
+1 AND SLEEP(5)--,1
+email=jane.doe@example.com&reset=true,0
+admin'  --,1
+price between 100 and 200,0
+'/**/OR/**/1=1--,1
+'/**/OR/**/1=1--,1
+product search: laptop bag,0
+' OR 1=1 --,1
+hello world,0
+""" OR """" = """,1
+1 AND SLEEP(5)--,1
+hello world,0
+order by date desc,0
+""" OR """" = """,1
+' /**/ ; /**/ DROP /**/ TABLE /**/ users; /**/ ;--,1
+product search: laptop bag,0
+admin' ;--,1
+email=jane.doe@example.com&reset=true,0
+' /**/ OR /**/ 1=1 /**/ --,1
+product search: laptop bag,0
+"' UNION SELECT nULl,NuLl --",1
+hello world,0
+email=jane.doe@example.com&reset=true,0
+' OR '1'='1,1
+"UNION SELECT username, password FROM users ;--",1
+""" /**/ OR /**/ """" /**/ = /**/ """,1
+select * from employees where id = 5,0
+email=jane.doe@example.com&reset=true,0
+hello world,0
+update profile set city='Hyderabad' where user_id=10,0
+price between 100 and 200,0
+admin'  --,1
+select * from employees where id = 5,0
+hello world,0
+1  AND  SLEEP(5)--,1
+hello world,0
+'  ;  DROP  TABLE  users;  --,1
+') /**/ OR /**/ ('1'='1,1
+department='economy' and region='apac',0
+select * from employees where id = 5,0
+hello world,0
+order by date desc,0
+' OR 1=1 --,1
+"' UNION SELECT null,null --",1
+department='economy' and region='apac',0
+hello world,0
+1; /**/ WAITFOR /**/ DELAY /**/ '0:0:5' /**/ --,1
+' OR 1=1 --,1
+""" OR """" = """,1
+order by date desc,0
+email=jane.doe@example.com&reset=true,0
+1; /**/ WAITFOR /**/ DELAY /**/ '0:0:5' /**/ --,1
+""" OR """" = """,1
+order by date desc,0
+price between 100 and 200,0
+INSERT INTO logs(message) VALUES('user signed in'),0
+' /**/ OR /**/ '1'='1,1
+INSERT INTO logs(message) VALUES('user signed in'),0
+""" OR """" = """,1
+1;  WAITFOR  DELAY  '0:0:5'  --,1
+"' UNION SELECT nULL,nulL --",1
+INSERT INTO logs(message) VALUES('user signed in'),0
+'/**/OR/**/1=1--,1
+select * from employees where id = 5,0
+'/**/OR/**/1=1--,1
+' OR '1'='1,1
+normal text without sql,0
+update profile set city='Hyderabad' where user_id=10,0
+select * from employees where id = 5,0
+email=jane.doe@example.com&reset=true,0
+select * from employees where id = 5,0
+""" OR """" = """,1
+1  AND  SLEEP(5)--,1
+'/**/OR/**/1=1--,1
+admin' --,1
+order by date desc,0
+update profile set city='Hyderabad' where user_id=10,0
+""" OR """" = """,1
+update profile set city='Hyderabad' where user_id=10,0
+update profile set city='Hyderabad' where user_id=10,0
+'/**/OR/**/1=1#,1
+update profile set city='Hyderabad' where user_id=10,0
+hello world,0
+"-1'  UNION  ALL  SELECT  1,2--",1
+INSERT INTO logs(message) VALUES('user signed in'),0
+email=jane.doe@example.com&reset=true,0
+update profile set city='Hyderabad' where user_id=10,0
+update profile set city='Hyderabad' where user_id=10,0
+"' UNION SELECT nuLL,nUll --",1
+1; WAITFOR DELAY '0:0:5' --,1
+order by date desc,0
+' /**/ OR /**/ '1'='1,1
+hello world,0
+order by date desc,0
+select * from employees where id = 5,0
+' OR 1=1 ;--,1
+"' UNION SELECT null,null --",1
+INSERT INTO logs(message) VALUES('user signed in'),0
+"UNION SELECT usErname, passwoRd FROM users --",1
+"-1' UNION ALL SELECT 1,2#",1
+INSERT INTO logs(message) VALUES('user signed in'),0
+select * from employees where id = 5,0
+"' /**/ UNION /**/ SELECT /**/ NuLL,nuLL /**/ --",1
+"-1' UNION ALL SELECT 1,2--",1
+'/**/OR/**/1=1--,1
+') /**/ OR /**/ ('1'='1,1
+select * from employees where id = 5,0
+admin' --,1
+"' UNION SELECT nulL,NuLl --",1
+' ; DROP TABLE users; #,1
+') OR ('1'='1,1
+INSERT INTO logs(message) VALUES('user signed in'),0
+price between 100 and 200,0
+' OR 1=1 --,1
+"UNION  SELECT  usErnAME,  PassWOrD  FROM  uSers  ;--",1
+'  OR  1=1  --,1
+'/**/OR/**/1=1--,1
+price between 100 and 200,0
+department='economy' and region='apac',0
+department='economy' and region='apac',0
+1; WAITFOR DELAY '0:0:5' --,1
+INSERT INTO logs(message) VALUES('user signed in'),0
+"-1' UNION ALL SELECT 1,2;--",1
+' OR '1'='1,1
+email=jane.doe@example.com&reset=true,0
+email=jane.doe@example.com&reset=true,0
+admiN' /**/ --,1
+1; /**/ WAITFOR /**/ DELAY /**/ '0:0:5' /**/ --,1
+order by date desc,0
+"UNION SELECT username, password FROM users --",1
+' OR 1=1 --,1
+INSERT INTO logs(message) VALUES('user signed in'),0
+hello world,0
+' OR 1=1 --,1
+normal text without sql,0
+1 AND SLEEP(5)#,1
+"-1' /**/ UNION /**/ ALL /**/ SELECT /**/ 1,2--",1
+') OR ('1'='1,1
+update profile set city='Hyderabad' where user_id=10,0
+"""  OR  """"  =  """,1
+normal text without sql,0
+1;  WAITFOR  DELAY  '0:0:5'  --,1
+') /**/ OR /**/ ('1'='1,1
+order by date desc,0
+1 AND SLEEP(5)--,1
+select * from employees where id = 5,0
+product search: laptop bag,0
+' ; DROP TABLE users; --,1
+select * from employees where id = 5,0
+"UNION SELECT username, password FROM users --",1
+normal text without sql,0
+INSERT INTO logs(message) VALUES('user signed in'),0
+order by date desc,0
+' OR 1=1 --,1
+hello world,0
+"' UNION SELECT null,null ;--",1
+1 AND SLEEP(5)--,1
+price between 100 and 200,0
+') /**/ OR /**/ ('1'='1,1
+normal text without sql,0
+department='economy' and region='apac',0
+price between 100 and 200,0
+email=jane.doe@example.com&reset=true,0
+normal text without sql,0
+""" /**/ OR /**/ """" /**/ = /**/ """,1
+' /**/ OR /**/ '1'='1,1
+department='economy' and region='apac',0
+normal text without sql,0
+"-1'  UNION  ALL  SELECT  1,2#",1
+hello world,0
+')  OR  ('1'='1,1
+select * from employees where id = 5,0
+price between 100 and 200,0
+' OR 1=1 #,1
+' OR 1=1 --,1
+"-1' UNION ALL SELECT 1,2--",1
+"UNION SELECT username, password FROM users --",1
+"UNION  SELECT  username,  password  FROM  users  ;--",1
+"-1' /**/ UNION /**/ ALL /**/ SELECT /**/ 1,2--",1
