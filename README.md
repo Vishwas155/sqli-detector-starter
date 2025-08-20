@@ -12,11 +12,13 @@ sqli-detector/
 ├─ notebooks/
 ├─ models/
 ├─ app/
+|  ├─ api_cors.py
 │  ├─ api.py
 │  └─ __init__.py
 ├─ train.py
 ├─ evaluate.py
 ├─ requirements.txt
+├─ demo.html
 └─ README.md
 ```
 
