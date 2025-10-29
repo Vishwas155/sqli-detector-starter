@@ -6,13 +6,20 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay, average_precision_score, precision_recall_curve
 from joblib import load
 
-DATA_PATH = Path("data/sql_payloads.csv")
+DATA_PATH = Path("data/Sheet 1-New 2.csv")
 MODEL_PATH = Path("models/sqli_charngram_logreg.joblib")  # change to rf if preferred
 OUT_DIR = Path("models")
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 def main():
     df = pd.read_csv(DATA_PATH)
+
+    # 🧹 Drop rows where text or label is missing
+    df = df.dropna(subset=["text", "label"])
+
+    # 🧼 Ensure all texts are strings (convert numbers, etc.)
+    df["text"] = df["text"].astype(str).str.strip()
+
     X_train, X_test, y_train, y_test = train_test_split(
         df["text"], df["label"], test_size=0.2, stratify=df["label"], random_state=42
     )
@@ -39,6 +46,9 @@ def main():
 
     print(f"Saved figures to {OUT_DIR}/")
     print(f"Average Precision (PR-AUC): {ap:.3f}")
+    print("Missing text rows:", df["text"].isna().sum())
+    print("Missing label rows:", df["label"].isna().sum())
+
 
 if __name__ == "__main__":
     main()
