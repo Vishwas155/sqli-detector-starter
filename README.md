@@ -87,7 +87,7 @@ Ctrl + C to stop the server
 
 ### How do we run the demo website
 - Run the demo.html file locally
-- run the uvicorn server for api_cors, Here, is the code '''bash uvicorn app.api_cors:app --reload --port 8000 '''
+- run the uvicorn server for api_cors, Here, is the code ```bash uvicorn app.api_cors:app --reload --port 8000 ```
 
 ### Notes
 - Keep punctuation/case (do **not** lowercase).
