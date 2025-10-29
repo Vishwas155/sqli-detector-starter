@@ -26,6 +26,10 @@ def build_pipe(model):
 
 def main():
     df = pd.read_csv(DATA_PATH)
+    
+    # Replace NaN values with empty strings
+    df = df.fillna("")
+
     X_train, X_test, y_train, y_test = train_test_split(
         df["text"], df["label"], test_size=0.2, stratify=df["label"], random_state=42
     )
