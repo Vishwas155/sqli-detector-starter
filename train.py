@@ -14,7 +14,7 @@ import numpy as np
 
 cv = StratifiedKFold(n_splits=5, shuffle=True, random_state=42)
 
-DATA_PATH = Path("data/sql_payloads.csv")
+DATA_PATH = Path("data/Sheet 1-New 2.csv")
 MODELS_DIR = Path("models")
 MODELS_DIR.mkdir(parents=True, exist_ok=True)
 
