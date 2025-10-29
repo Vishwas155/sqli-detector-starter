@@ -84,6 +84,11 @@ curl -X POST http://127.0.0.1:8000/score   -H "Content-Type: application/json"  
 use:- 
 Ctrl + C to stop the server 
 
+
+### How do we run the demo website
+- Run the demo.html file locally
+- run the uvicorn server for api_cors, Here, is the code '''bash uvicorn app.api_cors:app --reload --port 8000 '''
+
 ### Notes
 - Keep punctuation/case (do **not** lowercase).
 - Prefer char n‑grams (3–5) for obfuscation robustness.
