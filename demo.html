@@ -4,38 +4,39 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>SQLi Detector – Live Demo</title>
-  <style>
-    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial; margin: 2rem; max-width: 800px; }
-    h1 { margin-bottom: 0.5rem; }
-    .card { border: 1px solid #ddd; border-radius: 12px; padding: 1rem; margin: 1rem 0; }
-    textarea { width: 100%; min-height: 100px; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 14px; }
-    button { padding: 0.6rem 1rem; border-radius: 8px; border: 1px solid #888; background: #f8f8f8; cursor: pointer; }
-    button:hover { background: #eee; }
-    .row { display: flex; gap: 0.5rem; flex-wrap: wrap; }
-    .badge { padding: 0.25rem 0.5rem; border-radius: 999px; background: #efefef; cursor: pointer; }
-    #out { white-space: pre-wrap; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; background: #fafafa; border-radius: 8px; padding: 0.75rem; border: 1px solid #eee; }
-  </style>
+  <link rel="stylesheet" href="styles.css">
+
 </head>
+
 <body>
-  <h1>SQL Injection Detector — Live Demo</h1>
+  <header>
+            <div class="container">
+                    <div class="title"><b>SQL Injection Detector — Live Demo</b></div>
+            </div>
+       </header>
+
   <p>Type a string and click <b>Score</b>. This calls your FastAPI endpoint at <code>http://127.0.0.1:8000/score</code>.</p>
 
+  <main>
   <div class="card">
-    <label for="txt"><b>Input</b></label>
+    <h2>Input</h2>
     <textarea id="txt" placeholder="Try: ' OR 1=1 --"></textarea>
-    <div class="row" style="margin: .5rem 0 1rem;">
+    <div class="row" style="margin: .5rem 0 1rem; ">
       <span class="badge" data-x="' OR 1=1 --">' OR 1=1 --</span>
       <span class="badge" data-x="1; WAITFOR DELAY '0:0:5' --">1; WAITFOR DELAY '0:0:5' --</span>
       <span class="badge" data-x="UNION SELECT username,password FROM users --">UNION SELECT username,password FROM users --</span>
       <span class="badge" data-x="hello world">hello world</span>
       <span class="badge" data-x="select * from employees where id = 5">select * from employees where id = 5</span>
     </div>
-    <button id="btn">Score</button>
+    <button class="btn ok" id="score">Score</button>
   </div>
 
   <div class="card">
-    <b>Output</b>
-    <div id="out">—</div>
+    <h2>Output</h2>
+    <div id="out"></div>
+    <div>
+      <button class="btn err" id="clearOut" >Clear</button>
+    </div>
   </div>
 
   <script>
@@ -44,7 +45,7 @@
     document.querySelectorAll('.badge').forEach(b => {
       b.addEventListener('click', () => { txt.value = b.dataset.x; });
     });
-    document.getElementById('btn').addEventListener('click', async () => {
+    document.getElementById('score').addEventListener('click', async () => {
       out.textContent = 'Scoring...';
       try {
         const res = await fetch('http://127.0.0.1:8000/score', {
@@ -58,6 +59,13 @@
         out.textContent = 'Error: ' + e.message + '\n(Ensure your API is running at http://127.0.0.1:8000 and CORS is enabled.)';
       }
     });
+
+    document.getElementById('clearOut').addEventListener('click', function() {
+  out.innerHTML = '';
+});   
+    
   </script>
+  </main>
 </body>
+
 </html>
